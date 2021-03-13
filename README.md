@@ -1,4 +1,6 @@
 # SmashClub
+https://www.nintendo.com/games/detail/smash-club-streets-of-shmeenis-switch/
+
 Bug tracker and Wiki for game SmashClub
 
 Wiki with FAQ
