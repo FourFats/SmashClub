@@ -11,7 +11,7 @@ Report bugs and issues
 
 https://github.com/FourFats/SmashClub/issues
 
-Contact
+Contact us for Wiki Collaborator access
 
 https://www.fourfats.com/contact
 
