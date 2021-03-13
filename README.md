@@ -1,5 +1,7 @@
 # SmashClub
+
 Nintendo Switch eShop version have no advertisement and comes with premium upgrade and many playable characters already unlocked. 
+
 Mobile version is free to download and play, but contains advertisement and in app purchases.
 
 https://www.nintendo.com/games/detail/smash-club-streets-of-shmeenis-switch/
